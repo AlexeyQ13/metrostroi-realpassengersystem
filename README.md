@@ -1,7 +1,5 @@
-# metrostroi-realpassengersystem
-Steam WorkShop:  https://steamcommunity.com/sharedfiles/filedetails/?id=2529991883
-
-Система реального пассажиропотока.
+# Система реального пассажиропотока.
+Steam Workshop:  https://steamcommunity.com/sharedfiles/filedetails/?id=2529991883
 
 1. Количество пассажиров на станциях изменяется взависимости от времени и дня недели (выходные, будние дни).
 2. Имеется внутриигровой HUD с информацией о времени, час-пика (при наличии в определенное время), статус метро (открыто/закрыто)
